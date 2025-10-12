@@ -3,13 +3,6 @@
 <h1 align="center">👋 Привет, я <a href="https://github.com/dotax5" target="_blank">Danil / dotax5</a></h1>
 <h3 align="center">💻 Разработчик из России, увлечённый созданием интересных и полезных проектов</h3>
 
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Backend+%26+Frontend+Developer;Люблю+Python%2C+Linux+и+Open+Source;Учусь+и+развиваюсь+каждый+день" alt="Typing SVG" />
-</p>
-
----
 
 ### 🧰 Технологический Стек
 
