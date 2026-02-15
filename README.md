@@ -40,8 +40,4 @@
 
 ---
 
-<p align="center">
-   <img src="https://komarev.com/ghpvc/?username=dotax5&color=A855F7&style=for-the-badge" alt="Просмотры профиля"/>
-</p>
-
 
