@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://t.me/dotax5" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:dan.golovin.011@gmail.ru"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:dan.golovin.011@gmail.ru"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://vk.com/dotax5" target="_blank"><img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" /></a>
 </p>
 
@@ -44,6 +44,4 @@
    <img src="https://komarev.com/ghpvc/?username=dotax5&color=A855F7&style=for-the-badge" alt="Просмотры профиля"/>
 </p>
 
-<p align="center">
-   🚀 <em>“Учусь, чтобы создавать будущее.”</em>
-</p>
+
