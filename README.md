@@ -3,13 +3,13 @@
 <h1 align="center">Привет, я <a href="https://github.com/dotax5" target="_blank">Danil / dotax5</a></h1>
 
 
-### 🧰 Владею языками:
+### Владею языками:
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js" />
 </p>
 
-### 🎨 Frontend & Backend & Инструменты:
+### Frontend & Backend & Инструменты:
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,git,webstorm,pycharm" />
@@ -17,7 +17,7 @@
 
 ---
 
-### ⚡ GitHub Статистика
+### GitHub Статистика
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dotax5&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" height="170" />
@@ -25,7 +25,7 @@
 
 ---
 
-### 🌐 Как со мной связаться
+### Как со мной связаться
 
 <p align="center">
   <a href="https://t.me/dotax5" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
