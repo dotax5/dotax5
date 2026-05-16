@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Привет, я <a href="https://github.com/dotax5" target="_blank">Danil / dotax5</a></h1>
+<h1 align="center">Привет, я <a href="https://github.com/dotax5" target="_blank">Danya / dotax5</a></h1>
 
 
 ### Владею языками:
