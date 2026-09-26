@@ -9,7 +9,7 @@
 ### Frontend & Backend & Инструменты:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,git,webstorm,pycharm,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,git,webstorm,pycharm,vscode,nodejs,docker,github,postman" />
 </p>
 
 ---
