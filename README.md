@@ -17,8 +17,9 @@
 
 
 <p align="center">
-  ![Profile views](https://komarev.com/ghpvc/?username=dotax5)
+  <img src="https://komarev.com/ghpvc/?username=dotax5" alt="Profile views" />
 </p>
+
 
 ---
 
