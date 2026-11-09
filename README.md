@@ -14,10 +14,10 @@
 
 ---
 
-### GitHub Статистика
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dotax5&show_icons=true&theme=dark" />
+  ![Profile views](https://komarev.com/ghpvc/?username=dotax5)
 </p>
 
 ---
