@@ -1,15 +1,15 @@
-<h1 align="center">Привет, я <a href="https://github.com/dotax5" target="_blank">Danya / dotax5</a></h1>
+<h1 align="center">Hi, I'm <a href="https://github.com/dotax5" target="_blank">Danya / dotax5</a></h1>
 
-### Владею языками:
+### Can write on:
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js" />
 </p>
 
-### Frontend & Backend & Инструменты:
+### Frontend & Backend & Instruments:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,git,webstorm,pycharm,vscode,nodejs,docker,github,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,git,webstorm,pycharm,vscode,nodejs,docker,github,postman,sqlite" />
 </p>
 
 ---
@@ -20,10 +20,27 @@
   <img src="https://komarev.com/ghpvc/?username=dotax5" alt="Profile views" />
 </p>
 
+---
+
+<div align="center">
+
+**My website:**
+
+<a href="https://dotax5.duckdns.org:8080/">
+  <img src="https://img.shields.io/badge/Открыть%20сайт-8080-6f42c1?style=for-the-badge&logo=firefox&logoColor=white" alt="Live Demo" />
+</a>
+
+<br />
+
+<img src="https://img.shields.io/badge/HTTPS-enabled-2ea44f?style=flat-square&logo=letsencrypt&logoColor=white" alt="HTTPS" />
+<img src="https://img.shields.io/badge/Node-22.22.1-009639?style=flat-square&logo=nginx&logoColor=white" alt="Node" />
+<img src="https://img.shields.io/badge/Port-8080-blue?style=flat-square" alt="Port" />
+
+</div>
 
 ---
 
-### Как со мной связаться
+### How to connect with me
 
 <p align="center">
   <a href="https://t.me/dotax5" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
