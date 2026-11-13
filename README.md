@@ -27,13 +27,13 @@
 **My website:**
 
 <a href="https://dotax5.duckdns.org:8080/">
-  <img src="https://img.shields.io/badge/Открыть%20сайт-8080-6f42c1?style=for-the-badge&logo=firefox&logoColor=white" alt="Live Demo" />
+  <img src="https://img.shields.io/badge/Visit%20site-8080-6f42c1?style=for-the-badge&logo=firefox&logoColor=white" alt="Live Demo" />
 </a>
 
 <br />
 
 <img src="https://img.shields.io/badge/HTTPS-enabled-2ea44f?style=flat-square&logo=letsencrypt&logoColor=white" alt="HTTPS" />
-<img src="https://img.shields.io/badge/Node-22.22.1-009639?style=flat-square&logo=nginx&logoColor=white" alt="Node" />
+<img src="https://img.shields.io/badge/Node-22.22.1-009639?style=flat-square&logo=node&logoColor=white" alt="Node" />
 <img src="https://img.shields.io/badge/Port-8080-blue?style=flat-square" alt="Port" />
 
 </div>
